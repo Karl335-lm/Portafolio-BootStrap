@@ -50,20 +50,20 @@ Portafolio-Web/
 
 ### 🏠 Página de inicio
 
-![Página de inicio](assets/img/Captura%20de%20pantalla%202026-10-01%20101811.png)
+<img src="assets/img/Captura de pantalla 2026-10-01 101811.png" alt="Página de inicio">
 
 ### 🎓 Formación académica
 
-![Formación](assets/img/Captura%20de%20pantalla%202026-10-01%20100907.png)
+<img src="assets/img/Captura de pantalla 2026-10-01 100907.png" alt="Formación académica">
 
 ### 💻 Habilidades
 
-![Habilidades](assets/img/Captura%20de%20pantalla%202026-10-01%20100816.png)
+<img src="assets/img/Captura de pantalla 2026-10-01 100816.png" alt="Habilidades">
 
 ### 📂 Proyectos
 
-![Proyectos](assets/img/Captura%20de%20pantalla%202026-10-01%20100947.png)
+<img src="assets/img/Captura de pantalla 2026-10-01 100947.png" alt="Proyectos">
 
 ### 📞 Contacto
 
-![Contacto](assets/img/Captura%20de%20pantalla%202026-10-01%20101015.png)
+<img src="assets/img/Captura de pantalla 2026-10-01 101015.png" alt="Contacto">
