@@ -50,20 +50,20 @@ Portafolio-Web/
 
 ### 🏠 Página de inicio
 
-<img src="assets/img/Captura de pantalla 2026-10-01 101811.png" alt="Página de inicio">
+![Página de inicio](https://raw.githubusercontent.com/Karl335-lm/Portafolio-BootStrap/main/assets/img/Captura%20de%20pantalla%202026-10-01%20101811.png)
 
 ### 🎓 Formación académica
 
-<img src="assets/img/Captura de pantalla 2026-10-01 100907.png" alt="Formación académica">
+![Formación académica](https://raw.githubusercontent.com/Karl335-lm/Portafolio-BootStrap/main/assets/img/Captura%20de%20pantalla%202026-10-01%20100907.png)
 
 ### 💻 Habilidades
 
-<img src="assets/img/Captura de pantalla 2026-10-01 100816.png" alt="Habilidades">
+![Habilidades](https://raw.githubusercontent.com/Karl335-lm/Portafolio-BootStrap/main/assets/img/Captura%20de%20pantalla%202026-10-01%20100816.png)
 
 ### 📂 Proyectos
 
-<img src="assets/img/Captura de pantalla 2026-10-01 100947.png" alt="Proyectos">
+![Proyectos](https://raw.githubusercontent.com/Karl335-lm/Portafolio-BootStrap/main/assets/img/Captura%20de%20pantalla%202026-10-01%20100947.png)
 
 ### 📞 Contacto
 
-<img src="assets/img/Captura de pantalla 2026-10-01 101015.png" alt="Contacto">
+![Contacto](https://raw.githubusercontent.com/Karl335-lm/Portafolio-BootStrap/main/assets/img/Captura%20de%20pantalla%202026-10-01%20101015.png)
