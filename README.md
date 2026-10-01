@@ -46,24 +46,24 @@ Portafolio-Web/
 │
 └── README.md
 
-## 📸 Capturas de pantalla
+# 📸 Capturas de pantalla
 
 ### 🏠 Página de inicio
 
-![Página de inicio](assets/img/Captura de pantalla 2026-10-01 101811.png)
+![Página de inicio](assets/img/Captura%20de%20pantalla%202026-10-01%20101811.png)
 
 ### 🎓 Formación académica
 
-![Formación](assets/img/Captura de pantalla 2026-10-01 100907.png)
+![Formación](assets/img/Captura%20de%20pantalla%202026-10-01%20100907.png)
 
 ### 💻 Habilidades
 
-![Habilidades](assets/img/Captura de pantalla 2026-10-01 100816.png)
+![Habilidades](assets/img/Captura%20de%20pantalla%202026-10-01%20100816.png)
 
 ### 📂 Proyectos
 
-![Proyectos](assets/img/Captura de pantalla 2026-10-01 100947.png)
+![Proyectos](assets/img/Captura%20de%20pantalla%202026-10-01%20100947.png)
 
 ### 📞 Contacto
 
-![Contacto](assets/img/Captura de pantalla 2026-10-01 101015.png)
+![Contacto](assets/img/Captura%20de%20pantalla%202026-10-01%20101015.png)
