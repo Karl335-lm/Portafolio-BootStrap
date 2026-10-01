@@ -50,20 +50,24 @@ Portafolio-Web/
 
 ### 🏠 Página de inicio
 
-![Página de inicio](image-1.png)
+![Página de inicio](./img/inicio.png)
+
+### 👩‍💻 Sobre mí
+
+![Sobre mí](./img/sobre-mi.png)
 
 ### 🎓 Formación académica
 
-![Formación académica](image-3.png)
+![Formación](./img/formacion.png)
 
 ### 💻 Habilidades
 
-![Habilidades](image-2.png)
+![Habilidades](./img/habilidades.png)
 
 ### 📂 Proyectos
 
-![Proyectos](image-4.png)
+![Proyectos](./img/proyectos.png)
 
 ### 📞 Contacto
 
-![Sección de contacto](image-5.png)
+![Contacto](./img/contacto.png)
